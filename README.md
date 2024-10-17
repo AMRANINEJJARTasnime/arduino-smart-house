@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/734fe3ae-6879-407f-bbc1-04be3175fd34
 
 ## Project Overview
 
-My team and I developed an innovative **miniature smart home** using Arduino controllers, integrating smart technologies to optimize security, convenience, and energy efficiency. The system allows users to remotely control household appliances via a Bluetooth-connected app and RFID modules. We incorporated various sensors, microcontrollers, and actuators to automate and monitor key aspects of the home, including lighting, security, and environmental conditions.
+My team and I developed an **innovative miniature smart home** using Arduino controllers, integrating smart technologies to optimize security, convenience, and energy efficiency. The system allows users to remotely control household appliances via a Bluetooth-connected app and RFID modules. We incorporated various sensors, microcontrollers, and actuators to automate and monitor key aspects of the home, including lighting, security, and environmental conditions.
 
 ---
 
